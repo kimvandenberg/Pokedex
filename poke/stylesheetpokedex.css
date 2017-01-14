@@ -1,0 +1,46 @@
+
+.koplinks{
+	font-size: 13px !important; 
+}
+
+.textbox{
+	color: black !important;
+}
+
+.debutton{
+	color: black !important;
+}
+
+section#deid {
+    margin-left: 25px;
+	padding-top: 300px;
+}
+
+div#echocontent {
+    padding-top: 75px;
+	padding-left: 75px;
+}
+
+div#knopjes {
+	margin-left: -67%;
+    padding-top: 35px;
+}
+
+/* #buttontekst{
+	margin-left: -97%;
+	margin-top: -25%;
+} */
+
+/* #decontent{
+	font-size: 12px;
+}
+ */
+/* #decontent td
+{
+	text-align: left;
+	/* padding-top: 20%; */
+
+
+/* .hoi{
+	padding-left: 30px;
+} */
